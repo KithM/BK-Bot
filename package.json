@@ -1,0 +1,19 @@
+{
+  "name": "bk-bot",
+  "version": "0.0.1",
+  "description": "Open-Source Chatbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KithM/BK-Bot.git"
+  },
+  "author": "KithM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KithM/BK-Bot/issues"
+  },
+  "homepage": "https://github.com/KithM/BK-Bot#readme"
+}
